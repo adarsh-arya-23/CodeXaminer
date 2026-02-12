@@ -11,7 +11,8 @@ COPY . /app
 WORKDIR /app
 
 # Compile your application for Linux
-RUN g++ -o judge main.cpp # Replace 'main.cpp' with your actual file names
+RUN g++ -o judge *.cpp
+
 
 # Expose the port
 EXPOSE 8080
