@@ -1,0 +1,36 @@
+Problem: Two Sum
+
+Difficulty: Easy
+Points: 100
+
+Description:
+Given an array of integers and a target sum, find two numbers in the array that add up to the target.
+Return the indices of the two numbers (0-indexed).
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Input Format:
+- First line: n (number of elements in array)
+- Second line: n space-separated integers (array elements)
+- Third line: target (target sum)
+
+Output Format:
+- Two space-separated integers representing the indices of the two numbers
+
+Constraints:
+- 2 ≤ n ≤ 1000
+- -10^9 ≤ array[i] ≤ 10^9
+- -10^9 ≤ target ≤ 10^9
+
+Example:
+
+Input:
+4
+2 7 11 15
+9
+
+Output:
+0 1
+
+Explanation:
+nums[0] + nums[1] = 2 + 7 = 9, so we return indices 0 and 1.

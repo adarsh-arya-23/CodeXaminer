@@ -1,0 +1,199 @@
+[2026-02-13 01:02:16] INFO: Leaderboard file not found, creating new: data/leaderboard.txt
+[2026-02-13 01:02:16] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:02:16] INFO: User file not found, creating new
+[2026-02-13 01:02:16] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:02:16] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:02:16] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:02:16] INFO: Loaded 3 problems
+[2026-02-13 01:05:31] INFO: Leaderboard file not found, creating new: data/leaderboard.txt
+[2026-02-13 01:05:31] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:05:31] INFO: User file not found, creating new
+[2026-02-13 01:05:31] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:05:31] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:05:31] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:05:31] INFO: Loaded 3 problems
+[2026-02-13 01:06:47] INFO: New user registered: Demo
+[2026-02-13 01:07:12] INFO: User logged in: Demo
+[2026-02-13 01:08:58] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:08:58] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:08:58] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:08:59] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:08:59] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:08:59] INFO: Running test case 1/3
+[2026-02-13 01:08:59] INFO: Running test case 2/3
+[2026-02-13 01:08:59] INFO: Running test case 3/3
+[2026-02-13 01:08:59] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Wrong Answer | Score: 0
+[2026-02-13 01:09:54] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:09:54] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:09:54] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:10:59] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:10:59] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:10:59] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:10:59] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:10:59] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:10:59] INFO: Running test case 1/3
+[2026-02-13 01:10:59] INFO: Running test case 2/3
+[2026-02-13 01:10:59] INFO: Running test case 3/3
+[2026-02-13 01:10:59] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Wrong Answer | Score: 0
+[2026-02-13 01:11:22] INFO: User logged out: Demo
+[2026-02-13 01:11:25] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 01:15:59] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 01:15:59] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:15:59] INFO: Loaded 1 users
+[2026-02-13 01:15:59] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:15:59] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:15:59] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:15:59] INFO: Loaded 3 problems
+[2026-02-13 01:16:06] INFO: User logged in: Demo
+[2026-02-13 01:16:42] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:16:42] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:16:42] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:16:42] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:16:42] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:16:42] INFO: Running test case 1/3
+[2026-02-13 01:16:42] INFO: Running test case 2/3
+[2026-02-13 01:16:42] INFO: Running test case 3/3
+[2026-02-13 01:16:42] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Wrong Answer | Score: 0
+[2026-02-13 01:17:02] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:17:02] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:17:02] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:17:02] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:17:02] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:17:02] INFO: Running test case 1/3
+[2026-02-13 01:17:02] INFO: Running test case 2/3
+[2026-02-13 01:17:02] INFO: Running test case 3/3
+[2026-02-13 01:17:02] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Wrong Answer | Score: 0
+[2026-02-13 01:17:12] INFO: User logged out: Demo
+[2026-02-13 01:17:15] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 01:19:04] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 01:19:04] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:19:04] INFO: Loaded 1 users
+[2026-02-13 01:19:04] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:19:04] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:19:04] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:19:04] INFO: Loaded 3 problems
+[2026-02-13 01:19:12] INFO: User logged in: Demo
+[2026-02-13 01:19:46] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:19:46] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:19:46] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:19:47] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:19:47] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:19:47] INFO: Running test case 1/3
+[2026-02-13 01:19:47] INFO: Running test case 2/3
+[2026-02-13 01:19:47] INFO: Running test case 3/3
+[2026-02-13 01:19:47] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Wrong Answer | Score: 66
+[2026-02-13 01:20:03] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:20:03] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:20:03] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:20:04] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:20:04] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:20:04] INFO: Running test case 1/3
+[2026-02-13 01:20:04] INFO: Running test case 2/3
+[2026-02-13 01:20:04] INFO: Running test case 3/3
+[2026-02-13 01:20:04] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Wrong Answer | Score: 66
+[2026-02-13 01:20:14] INFO: User logged out: Demo
+[2026-02-13 01:20:20] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 01:21:04] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 01:21:04] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:21:04] INFO: Loaded 1 users
+[2026-02-13 01:21:04] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:21:04] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:21:04] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:21:04] INFO: Loaded 3 problems
+[2026-02-13 01:21:10] INFO: User logged in: Demo
+[2026-02-13 01:21:30] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:21:30] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:21:30] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:21:31] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:21:31] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:21:31] INFO: Running test case 1/3
+[2026-02-13 01:21:31] INFO: Running test case 2/3
+[2026-02-13 01:21:31] INFO: Running test case 3/3
+[2026-02-13 01:21:31] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Accepted | Score: 100
+[2026-02-13 01:22:15] INFO: Starting judgment for submission: Demo_P002_YjLu0asV
+[2026-02-13 01:22:15] INFO: Source code saved: submissions/Demo_P002.cpp
+[2026-02-13 01:22:15] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P002.cpp" -o "executables/Demo_P002.exe" 2>&1
+[2026-02-13 01:22:15] INFO: Compilation successful: executables/Demo_P002.exe
+[2026-02-13 01:22:15] INFO: Compilation successful for: Demo_P002_YjLu0asV
+[2026-02-13 01:22:15] INFO: Running test case 1/3
+[2026-02-13 01:22:15] INFO: Running test case 2/3
+[2026-02-13 01:22:15] INFO: Running test case 3/3
+[2026-02-13 01:22:15] INFO: Judgment complete for: Demo_P002_YjLu0asV | Verdict: Accepted | Score: 100
+[2026-02-13 01:22:44] INFO: Starting judgment for submission: Demo_P003_YjLu0asV
+[2026-02-13 01:22:44] INFO: Source code saved: submissions/Demo_P003.cpp
+[2026-02-13 01:22:44] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P003.cpp" -o "executables/Demo_P003.exe" 2>&1
+[2026-02-13 01:22:44] INFO: Compilation successful: executables/Demo_P003.exe
+[2026-02-13 01:22:44] INFO: Compilation successful for: Demo_P003_YjLu0asV
+[2026-02-13 01:22:44] INFO: Running test case 1/3
+[2026-02-13 01:22:44] INFO: Running test case 2/3
+[2026-02-13 01:22:45] INFO: Running test case 3/3
+[2026-02-13 01:22:45] INFO: Judgment complete for: Demo_P003_YjLu0asV | Verdict: Wrong Answer | Score: 133
+[2026-02-13 01:23:06] INFO: Starting judgment for submission: Demo_P003_YjLu0asV
+[2026-02-13 01:23:06] INFO: Source code saved: submissions/Demo_P003.cpp
+[2026-02-13 01:23:06] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P003.cpp" -o "executables/Demo_P003.exe" 2>&1
+[2026-02-13 01:23:06] INFO: Compilation successful: executables/Demo_P003.exe
+[2026-02-13 01:23:06] INFO: Compilation successful for: Demo_P003_YjLu0asV
+[2026-02-13 01:23:06] INFO: Running test case 1/3
+[2026-02-13 01:23:06] INFO: Running test case 2/3
+[2026-02-13 01:23:06] INFO: Running test case 3/3
+[2026-02-13 01:23:06] INFO: Judgment complete for: Demo_P003_YjLu0asV | Verdict: Wrong Answer | Score: 133
+[2026-02-13 01:23:31] INFO: User logged out: Demo
+[2026-02-13 01:23:33] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 01:23:46] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 01:23:47] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:23:47] INFO: Loaded 1 users
+[2026-02-13 01:23:47] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:23:47] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:23:47] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:23:47] INFO: Loaded 3 problems
+[2026-02-13 01:23:54] INFO: User logged in: Demo
+[2026-02-13 01:24:07] INFO: Starting judgment for submission: Demo_P003_YjLu0asV
+[2026-02-13 01:24:07] INFO: Source code saved: submissions/Demo_P003.cpp
+[2026-02-13 01:24:07] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P003.cpp" -o "executables/Demo_P003.exe" 2>&1
+[2026-02-13 01:24:07] INFO: Compilation successful: executables/Demo_P003.exe
+[2026-02-13 01:24:07] INFO: Compilation successful for: Demo_P003_YjLu0asV
+[2026-02-13 01:24:07] INFO: Running test case 1/3
+[2026-02-13 01:24:08] INFO: Running test case 2/3
+[2026-02-13 01:24:08] INFO: Running test case 3/3
+[2026-02-13 01:24:08] INFO: Judgment complete for: Demo_P003_YjLu0asV | Verdict: Accepted | Score: 200
+[2026-02-13 01:24:30] INFO: User logged out: Demo
+[2026-02-13 01:24:34] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 01:25:44] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 01:25:44] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:25:44] INFO: Loaded 1 users
+[2026-02-13 01:25:44] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:25:44] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:25:44] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:25:44] INFO: Loaded 3 problems
+[2026-02-13 01:25:51] INFO: User logged in: Demo
+[2026-02-13 01:26:54] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:26:54] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:26:54] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:27:35] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 01:27:35] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 01:27:35] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 01:27:36] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 01:27:36] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 01:27:36] INFO: Running test case 1/3
+[2026-02-13 01:27:36] INFO: Running test case 2/3
+[2026-02-13 01:27:36] INFO: Running test case 3/3
+[2026-02-13 01:27:36] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Wrong Answer | Score: 0
+[2026-02-13 01:27:44] INFO: Starting judgment for submission: Demo_P002_YjLu0asV
+[2026-02-13 01:27:44] INFO: Source code saved: submissions/Demo_P002.cpp
+[2026-02-13 01:27:44] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P002.cpp" -o "executables/Demo_P002.exe" 2>&1
+[2026-02-13 01:27:45] INFO: Compilation successful: executables/Demo_P002.exe
+[2026-02-13 01:27:45] INFO: Compilation successful for: Demo_P002_YjLu0asV
+[2026-02-13 01:27:45] INFO: Running test case 1/3
+[2026-02-13 01:27:45] INFO: Running test case 2/3
+[2026-02-13 01:27:45] INFO: Running test case 3/3
+[2026-02-13 01:27:45] INFO: Judgment complete for: Demo_P002_YjLu0asV | Verdict: Accepted | Score: 100
+[2026-02-13 01:27:51] INFO: User logged out: Demo
+[2026-02-13 01:27:53] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 01:29:08] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 01:29:08] INFO: === Mini Online Judge System Started ===
+[2026-02-13 01:29:08] INFO: Loaded 1 users
+[2026-02-13 01:29:08] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 01:29:08] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 01:29:08] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 01:29:08] INFO: Loaded 3 problems
+[2026-02-13 01:29:10] INFO: === Mini Online Judge System Stopped ===

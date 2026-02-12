@@ -1,0 +1,6 @@
+[2026-02-13 01:09:54] ERROR: Compilation failed: d:/apps/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+
+[2026-02-13 01:26:54] ERROR: Compilation failed: d:/apps/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+

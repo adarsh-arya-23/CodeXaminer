@@ -1,0 +1,30 @@
+Problem: Array Sorting
+
+Difficulty: Medium
+Points: 200
+
+Description:
+Given an array of integers, sort the array in ascending order and print the sorted array.
+
+Input Format:
+- First line: n (number of elements)
+- Second line: n space-separated integers
+
+Output Format:
+- n space-separated integers in ascending order
+
+Constraints:
+- 1 ≤ n ≤ 10000
+- -10^9 ≤ array[i] ≤ 10^9
+
+Example:
+
+Input:
+5
+5 2 8 1 9
+
+Output:
+1 2 5 8 9
+
+Explanation:
+The array [5, 2, 8, 1, 9] sorted in ascending order is [1, 2, 5, 8, 9].

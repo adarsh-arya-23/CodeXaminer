@@ -1,0 +1,49 @@
+# Compiled Object files
+*.o
+*.obj
+obj/
+
+# Executables
+*.exe
+*.out
+judge
+judge.exe
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Generated files
+executables/
+submissions/*.cpp
+logs/*.txt
+data/*.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+temp/
+
+# Build directories
+build/
+bin/
