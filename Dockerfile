@@ -1,21 +1,30 @@
-# Use a lightweight C++ base image
+# 1. Use a lightweight Linux image with a modern C++ compiler
 FROM alpine:latest
 
-# Install C++ compiler and Gotty (Web-to-Terminal bridge)
-RUN apk add --no-cache g++ make wget && \
-    wget https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_amd64.tar.gz && \
-    tar -C /usr/local/bin -xvf gotty_linux_amd64.tar.gz
+# 2. Install necessary build tools and the C++ compiler
+# 'musl-dev' is required for standard C++ headers on Alpine Linux
+RUN apk add --no-cache g++ make wget bash musl-dev
 
-# Copy your source code
-COPY . /app
+# 3. Download and install Gotty (The bridge that puts your terminal on a website)
+RUN wget https://github.com && \
+    tar -C /usr/local/bin -xvf gotty_linux_amd64.tar.gz && \
+    rm gotty_linux_amd64.tar.gz
+
+# 4. Set the working directory inside the container
 WORKDIR /app
 
-# Compile your application for Linux
-RUN g++ -o judge *.cpp
+# 5. Copy all your project files from GitHub into the container
+COPY . .
 
+# 6. Compile the application
+# We use 'find' to make sure we catch every .cpp file, even in subfolders.
+# '-pthread' is added in case your judge uses threading for timeouts.
+RUN g++ -O3 -o judge $(find . -name "*.cpp") -pthread
 
-# Expose the port
+# 7. Tell Render which port to use (matches your Environment Variable)
 EXPOSE 8080
 
-# Run Gotty to serve your app on the web
-CMD ["gotty", "-w", "./judge"]
+# 8. Start Gotty to serve your 'judge' executable on the web
+# -w: Allows user input (typing)
+# -r: Randomizes the URL session for security
+CMD ["gotty", "-r", "-w", "--port", "8080", "./judge"]
