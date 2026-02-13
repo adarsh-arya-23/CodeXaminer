@@ -216,3 +216,20 @@
 [2026-02-13 09:13:28] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Accepted | Score: 100
 [2026-02-13 09:13:51] INFO: User logged out: Demo
 [2026-02-13 09:13:53] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 21:49:30] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 21:49:30] INFO: === Mini Online Judge System Started ===
+[2026-02-13 21:49:30] INFO: Loaded 1 users
+[2026-02-13 21:49:30] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 21:49:30] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 21:49:30] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 21:49:30] INFO: Loaded 3 problems
+[2026-02-13 21:57:05] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 21:57:05] INFO: === Mini Online Judge System Started ===
+[2026-02-13 21:57:05] INFO: Loaded 1 users
+[2026-02-13 21:57:05] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 21:57:05] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 21:57:05] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 21:57:05] INFO: Loaded 3 problems
+[2026-02-13 21:57:18] INFO: User logged in: Demo
+[2026-02-13 21:57:28] INFO: User logged out: Demo
+[2026-02-13 21:57:30] INFO: === Mini Online Judge System Stopped ===
