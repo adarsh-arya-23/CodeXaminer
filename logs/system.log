@@ -197,3 +197,22 @@
 [2026-02-13 01:29:08] INFO: Loaded problem P003 with 3 test cases
 [2026-02-13 01:29:08] INFO: Loaded 3 problems
 [2026-02-13 01:29:10] INFO: === Mini Online Judge System Stopped ===
+[2026-02-13 09:11:47] INFO: Loaded 1 entries from leaderboard
+[2026-02-13 09:11:47] INFO: === Mini Online Judge System Started ===
+[2026-02-13 09:11:47] INFO: Loaded 1 users
+[2026-02-13 09:11:47] INFO: Loaded problem P001 with 3 test cases
+[2026-02-13 09:11:47] INFO: Loaded problem P002 with 3 test cases
+[2026-02-13 09:11:47] INFO: Loaded problem P003 with 3 test cases
+[2026-02-13 09:11:47] INFO: Loaded 3 problems
+[2026-02-13 09:12:24] INFO: User logged in: Demo
+[2026-02-13 09:13:25] INFO: Starting judgment for submission: Demo_P001_YjLu0asV
+[2026-02-13 09:13:25] INFO: Source code saved: submissions/Demo_P001.cpp
+[2026-02-13 09:13:25] INFO: Compiling: g++ -std=c++17 -O2 "submissions/Demo_P001.cpp" -o "executables/Demo_P001.exe" 2>&1
+[2026-02-13 09:13:28] INFO: Compilation successful: executables/Demo_P001.exe
+[2026-02-13 09:13:28] INFO: Compilation successful for: Demo_P001_YjLu0asV
+[2026-02-13 09:13:28] INFO: Running test case 1/3
+[2026-02-13 09:13:28] INFO: Running test case 2/3
+[2026-02-13 09:13:28] INFO: Running test case 3/3
+[2026-02-13 09:13:28] INFO: Judgment complete for: Demo_P001_YjLu0asV | Verdict: Accepted | Score: 100
+[2026-02-13 09:13:51] INFO: User logged out: Demo
+[2026-02-13 09:13:53] INFO: === Mini Online Judge System Stopped ===
